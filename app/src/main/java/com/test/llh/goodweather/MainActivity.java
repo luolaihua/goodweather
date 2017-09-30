@@ -1,4 +1,4 @@
-package com.example.llh.goodweather;
+package com.test.llh.goodweather;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
