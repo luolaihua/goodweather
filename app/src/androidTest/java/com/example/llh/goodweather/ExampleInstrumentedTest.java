@@ -1,4 +1,4 @@
-package com.example.llh.goodweather;
+package com.test.llh.goodweather;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
