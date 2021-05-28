@@ -13,4 +13,6 @@
   http://guolin.tech/api/bing_pic
   
   应用截图：
-  
+  ![](https://github.com/luolaihua/goodweather/blob/master/1.jpg)
+  ![](https://github.com/luolaihua/goodweather/blob/master/2.jpg)
+  ![](https://github.com/luolaihua/goodweather/blob/master/3.jpg)
